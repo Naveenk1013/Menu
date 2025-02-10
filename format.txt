@@ -1,0 +1,7 @@
+À La Carte Menu	
+
+Menu 1 Italian
+
+1.Appetizer: Bruschetta(Price in rupees), Caprese Salad, Arancini...and so on (list all the dishes as many as you can)
+2.Main Course:  Spaghetti Carbonara(Price in rupees), Lasagna al Forno (), Risotto ai Funghi, Pizza Margherita...and so on (list all the dishes as many as you can)
+3.Dessert: Tiramisu(Price in rupees), Panna Cotta, Cannoli... and so on (list all the dishes as many as you can)

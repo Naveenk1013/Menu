@@ -1,0 +1,190 @@
+1. À La Carte Menu (Expanded)
+
+Menu 1 (Italian):
+Appetizer: Bruschetta, Caprese Salad, Arancini
+Main Course: Spaghetti Carbonara, Lasagna al Forno, Risotto ai Funghi, Pizza Margherita
+Dessert: Tiramisu, Panna Cotta, Cannoli
+Menu 2 (Indian):
+Appetizer: Samosas, Pakoras, Papdi Chaat
+Main Course: Butter Chicken, Chicken Tikka Masala, Palak Paneer, Biryani
+Dessert: Gulab Jamun, Rasgulla, Kulfi
+Menu 3 (Mexican):
+Appetizer: Guacamole and Chips, Quesadillas, Nachos
+Main Course: Tacos, Burritos, Enchiladas, Fajitas
+Dessert: Churros, Flan, Tres Leches Cake
+Menu 4 (American):
+Appetizer: Chicken Wings, Onion Rings, Mozzarella Sticks
+Main Course: Burgers, Steaks, Fried Chicken, Mac and Cheese
+Dessert: Apple Pie, Chocolate Cake, Brownies
+2. Static Menu (Expanded)
+
+Menu 1 (Diner):
+Breakfast: Pancakes, Waffles, Omelets, Eggs Benedict, French Toast
+Lunch: Burgers, Sandwiches, Soups, Salads, Chili
+Dinner: Roast Chicken, Meatloaf, Spaghetti, Fish and Chips, Pot Roast
+Menu 2 (Chain Restaurant):
+Appetizers: Mozzarella Sticks, Chicken Tenders, Spinach Artichoke Dip, Loaded Fries
+Entrees: Steak, Salmon, Pasta Primavera, Chicken Alfredo, Shrimp Scampi
+Desserts: Chocolate Cake, Brownie, Cheesecake, Apple Pie, Ice Cream Sundae
+Menu 3 (Cafe):
+Coffee: Latte, Cappuccino, Espresso, Americano, Mocha
+Pastries: Croissant, Muffin, Scone, Danish, Bagel
+Sandwiches: Turkey, Ham, Veggie, Grilled Cheese, BLT
+Menu 4 (Fast Food):
+Burgers: Hamburger, Cheeseburger, Double Cheeseburger, Spicy Chicken Sandwich
+Sides: Fries, Onion Rings, Nuggets, Salad
+Drinks: Soda, Milkshake, Juice, Water
+3. Du Jour Menu (Expanded - Examples for different days)
+
+Monday:
+Appetizer: Cream of Tomato Soup, Caesar Salad
+Main Course: Roasted Lamb with Rosemary Potatoes, Vegetarian Chili
+Dessert: Pear Tart, Chocolate Mousse
+Tuesday:
+Appetizer: Spinach and Artichoke Dip, Bruschetta
+Main Course: Grilled Swordfish with Lemon Butter Sauce, Chicken Stir-fry
+Dessert: Mango Sorbet, Key Lime Pie
+Wednesday:
+Appetizer: Mushroom Bisque, French Onion Soup
+Main Course: Beef Bourguignon, Pasta with Pesto and Vegetables
+Dessert: Chocolate Mousse, Apple Crumble
+Thursday:
+Appetizer: Gazpacho, Caprese Salad
+Main Course: Chicken Paella, Vegetarian Curry
+Dessert: Flan, Fruit Salad
+Friday:
+Appetizer: Clam Chowder, Shrimp Cocktail
+Main Course: Fish and Chips, Pizza
+Dessert: Cheesecake, Brownies
+Saturday:
+Appetizer: Crab Cakes, Spring Rolls
+Main Course: Steak, BBQ Ribs
+Dessert: Tiramisu, Ice Cream Sundae
+Sunday:
+Appetizer: Deviled Eggs, Guacamole and Chips
+Main Course: Roast Chicken, Pasta with Marinara Sauce
+Dessert: Apple Pie, Carrot Cake
+4. Cycle Menu (Expanded - Example showing variation across weeks)
+
+Week 1:
+Monday: Roast Chicken, Mashed Potatoes, Green Beans
+Tuesday: Spaghetti with Meatballs, Garlic Bread, Salad
+Wednesday: Fish and Chips, Coleslaw
+Thursday: Tacos, Rice, Beans
+Friday: Pizza, Salad
+Saturday: Steak, Baked Potato, Asparagus
+Sunday: Pancakes, Eggs, Bacon
+Week 2:
+Monday: Turkey Chili, Cornbread
+Tuesday: Chicken Fajitas, Rice, Beans
+Wednesday: Shepherd's Pie, Salad
+Thursday: Burgers, Fries, Onion Rings
+Friday: Pasta with Pesto and Vegetables, Garlic Bread
+Saturday: BBQ Ribs, Corn on the Cob, Potato Salad
+Sunday: Waffles, Fruit Salad
+Week 3:
+Monday: Meatloaf, Mashed Potatoes, Gravy
+Tuesday: Chicken Curry, Rice, Naan
+Wednesday: Baked Salmon, Roasted Vegetables
+Thursday: Quesadillas, Rice, Beans
+Friday: Lasagna, Salad
+Saturday: Roast Pork, Stuffing, Cranberry Sauce
+Sunday: Omelets, Toast
+5. Prix Fixe Menu (Expanded)
+
+Menu 1 (₹1500):
+Appetizer: Soup (Tomato or Onion) or Salad (Caesar or Garden)
+Main Course: Chicken (Grilled or Roasted) or Fish (Grilled or Fried)
+Dessert: Ice Cream (Vanilla or Chocolate) or Cake (Chocolate or Carrot)
+Menu 2 (₹2000):
+Appetizer: Bruschetta or Shrimp Cocktail
+Main Course: Steak (Sirloin or Ribeye) or Pasta (Linguine with Clams or Fettuccine Alfredo)
+Dessert: Tiramisu or Cheesecake
+Menu 3 (₹1200):
+Appetizer: Salad (Greek or Caprese) or Soup (Minestrone or Lentil)
+Main Course: Vegetarian Pasta (Penne Arrabbiata or Spinach and Ricotta Ravioli) or Grilled Chicken (Lemon Herb or BBQ)
+Dessert: Fruit Salad or Brownie
+Menu 4 (₹1800):
+Appetizer: Onion Soup or Garlic Bread
+Main Course: Roast Pork (with Apple Sauce) or Grilled Fish (Salmon or Mahi Mahi)
+Dessert: Apple Pie or Ice Cream (with Chocolate Sauce)
+6. Table d'Hôte Menu (Expanded)
+
+Menu 1 (Banquet):
+Appetizer: Salad (Garden or Caesar)
+Main Course: Chicken (Roasted or Grilled) or Beef (Roast Beef or Beef Stroganoff)
+Dessert: Cake (Chocolate or Vanilla)
+Menu 2 (Special Event):
+Appetizer: Soup (Butternut Squash or Cream of Mushroom) or Salad (Spinach or Mixed Greens)
+Main Course: Fish (Salmon or Tilapia) or Pasta (Penne Primavera or Fettuccine Alfredo)
+Dessert: Ice Cream (Strawberry or Chocolate) or Pie (Apple or Pumpkin)
+Menu 3 (Wedding):
+Appetizer: Shrimp Cocktail or Bruschetta
+Main Course: Steak (Filet Mignon or Ribeye) or Chicken (Chicken Marsala or Chicken Piccata)
+Dessert: Wedding Cake (various flavors)
+Menu 4 (Conference):
+Appetizer: Salad (Caesar or Greek) or Sandwiches (Turkey or Ham)
+Main Course: Chicken (Grilled or Roasted) or Vegetarian option (Pasta Primavera or Vegetable Curry)
+Dessert: Cookies or Fruit
+7. Tasting Menu (Expanded)
+
+Menu 1 (5 Courses - Modern American):
+Amuse-bouche: Smoked Salmon Canapé
+Seafood Course: Seared Scallops with Corn Puree
+Meat Course: Duck Confit with Cherry Sauce
+Cheese Course: Selection of Local Cheeses with Fig Jam
+Dessert Course: Chocolate Lava Cake with Raspberry Coulis
+Menu 2 (7 Courses - French):
+Amuse-bouche: Gougères
+Soup: French Onion Soup
+Salad: Salade Niçoise
+Fish: Pan-Seared Halibut with Lemon Butter Sauce
+Meat: Beef Bourguignon
+Cheese: Selection of French Cheeses with Baguette
+Dessert: Crème brûlée
+Menu 3 (9 Courses - Italian):
+Amuse-bouche: Bruschetta with Tomato and Basil
+Oyster: Fresh Oysters with Lemon and Mignonette
+Soup: Minestrone Soup
+Salad: Caprese Salad with Mozzarella and Tomatoes
+Fish: Grilled Swordfish with Olive Oil and Herbs
+Meat 1: Osso Buco
+Meat 2: Roasted Lamb with Rosemary and Garlic
+Cheese: Selection of Italian Cheeses with Honey and Nuts
+Dessert: Tiramisu
+Menu 4 (Vegetarian 5 Course - Asian Fusion):
+Amuse-bouche: Vegetable Spring Roll
+Vegetable Soup: Miso Soup with Tofu and Seaweed
+Mushroom Risotto: Wild Mushroom Risotto with Truffle Oil
+Cheese Plate: Selection of Vegan Cheeses with Fruit and Crackers
+Dessert: Green Tea Ice Cream with Red Bean Paste
+8. Beverage Menu (Expanded)
+
+Menu 1 (Full Bar):
+Beer: Domestic (Budweiser, Coors Light), Imported (Heineken, Corona), Craft (IPA, Stout, Lager)
+Wine: Red (Cabernet Sauvignon, Merlot, Pinot Noir), White (Chardonnay, Sauvignon Blanc, Riesling), Rosé, Sparkling (Champagne, Prosecco)
+Cocktails: Classic (Martini, Manhattan, Old Fashioned), Signature (Restaurant-specific creations), Mocktails (Non-alcoholic cocktails)
+Non-Alcoholic: Soda (Coke, Sprite, Diet Coke), Juice (Orange, Apple, Cranberry), Coffee (Regular, Decaf), Tea (Hot, Iced)
+Menu 2 (Wine Focused):
+Red Wine: Cabernet Sauvignon (California, Bordeaux), Merlot (California, Chile), Pinot Noir (Burgundy, Oregon)
+White Wine: Chardonnay (California, Burgundy), Sauvignon Blanc (New Zealand, Loire Valley), Riesling (Germany, Alsace)
+Sparkling Wine: Champagne (France), Prosecco (Italy), Cava (Spain)
+Menu 3 (Coffee Shop):
+Coffee: Espresso, Americano, Latte, Cappuccino, Mocha, Macchiato, Flat White
+Tea: Black (English Breakfast, Earl Grey), Green (Sencha, Jasmine), Herbal (Chamomile, Peppermint)
+Juices: Orange, Apple, Grapefruit, Cranberry
+Other: Hot Chocolate, Chai Latte, Iced Coffee, Iced Tea
+Menu 4 (Juice Bar):
+Smoothies: Fruit-based (Strawberry Banana, Mango Pineapple), Vegetable-based (Green Smoothie, Carrot Ginger), Protein Smoothies
+Fresh Juices: Orange, Carrot, Apple, Beet, Celery, Ginger
+Other: Water (Bottled, Sparkling), Coconut Water, Kombucha
+9. Dessert Menu (Expanded)
+
+Menu 1 (Classic):
+Tiramisu, Chocolate Cake, Cheesecake (New York Style, Ricotta), Apple Pie (with or without ice cream), Carrot Cake, Brownies
+Menu 2 (Ice Cream Focused):
+Ice Cream Sundae (various toppings), Banana Split, Milkshake (various flavors), Ice Cream Cones (various flavors), Sorbet
+Menu 3 (Pastry Shop):
+Croissant (plain, almond, chocolate), Muffin (blueberry, banana nut), Scone (cranberry, cheese), Danish (fruit filled), Bagel (plain, everything)
+Menu 4 (Fine Dining):
+Chocolate Mousse, Crème brûlée, Fruit Tart (seasonal fruits), Soufflé (chocolate, vanilla), Panna Cotta, Macarons, Petit Fours

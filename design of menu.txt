@@ -1,0 +1,25 @@
+Menu 
+
+Starter									Qty       	 Price		
+
+Appetizer: 
+Soup 
+(Tomato or Onion) 							(in ml)		(in rupees)
+
+Salad 
+(Caesar or Garden) 							(in grams)		(in rupees)          					
+
+
+Main Course: 
+Grilled Swordfish with Lemon Butter Sauce, 				(in grm)		(in rupees)
+(DESCRIPTION) 
+
+Chicken Stir-fry							(in grm)		(in rupees)
+(DESCRIPTION)
+
+Dessert: 
+Mango Sorbet 								(in ml)		(in rupees)
+(DESCRIPTION)
+
+Key Lime Pie								(in ml)		(in rupees)
+(DESCRIPTION)

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Designer</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Menu Designer</h1>
+    </header>
+    <main>
+        <section id="menu-selection">
+            <h2>Select Menu Type</h2>
+            <div class="custom-select">
+                <select id="menu-type">
+                    <option value="a-la-carte">À La Carte Menu</option>
+                    <option value="static">Static Menu</option>
+                    <option value="du-jour">Du Jour Menu</option>
+                    <option value="cycle">Cycle Menu</option>
+                    <option value="prix-fixe">Prix Fixe Menu</option>
+                    <option value="table-d-hote">Table d'Hôte Menu</option>
+                    <option value="tasting">Tasting Menu</option>
+                    <option value="beverage">Beverage Menu</option>
+                    <option value="dessert">Dessert Menu</option>
+                </select>
+            </div>
+        </section>
+        <section id="menu-display">
+            <h2>Menu</h2>
+            <div id="menu-content"></div>
+            <button id="add-item">Add Item</button>
+            <button id="toggle-remove">Toggle Remove Feature</button>
+            <button id="print-menu">Print Menu</button>
+            <button id="share-menu">Share Menu</button>
+        </section>
+        <section id="item-editor" style="display: none;">
+            <h2>Edit Item</h2>
+            <input type="text" id="item-name" placeholder="Item Name">
+            <textarea id="item-description" placeholder="Description"></textarea>
+            <input type="number" id="item-quantity" placeholder="Quantity (in ml/grm)">
+            <input type="number" id="item-price" placeholder="Price (in rupees)">
+            <select id="item-type">
+                <option value="appetizer">Appetizer</option>
+                <option value="main-course">Main Course</option>
+                <option value="dessert">Dessert</option>
+                <option value="beverage">Beverage</option>
+                <option value="amuse-bouche">Amuse-bouche</option>
+                <option value="seafood-course">Seafood Course</option>
+                <option value="meat-course">Meat Course</option>
+                <option value="cheese-course">Cheese Course</option>
+                <option value="dessert-course">Dessert Course</option>
+                <option value="breakfast">Breakfast</option>
+                <option value="lunch">Lunch</option>
+                <option value="dinner">Dinner</option>
+                <option value="side">Side</option>
+            </select>
+            <button id="save-item">Save Item</button>
+        </section>
+    </main>
+    <script src="database.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
